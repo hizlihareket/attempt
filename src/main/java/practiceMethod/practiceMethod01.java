@@ -12,6 +12,9 @@ public class practiceMethod01 {
         return  a + b ;
 
         // Version 2
+
+        System.out.println("Version 3");
+    // V3
     }
 
 
